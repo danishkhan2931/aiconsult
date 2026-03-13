@@ -1,5 +1,5 @@
 {
-  "site.brand": "Dan May Consulting Co.",
+  "site.brand": "Danish-Mayank Consulting Co.",
   "nav.services": "Services",
   "nav.process": "Process",
   "nav.benefits": "Benefits",
@@ -18,8 +18,8 @@
   "services.sub": "We help companies integrate intelligent automation across teams and products.",
   "service.internal.title": "Internal Knowledge AI",
   "service.internal.text": "Build a private ChatGPT-style assistant trained on company documents using RAG and vector search.",
-  "service.support.title": "AI Customer Support",
-  "service.support.text": "AI chatbot that answers customer questions, integrates with website or Slack, and reduces support workload.",
+  "service.support.title": "AI Recruitment Support",
+  "service.support.text": "AI-powered resume analysis and initial candidate vetting to quickly identify the most qualified applicants and reduce manual screening time",
   "service.doc.title": "AI Document Processing",
   "service.doc.text": "Upload contracts, invoices, or PDFs and automatically extract structured information using AI.",
   "service.leads.title": "AI Lead Intelligence",
