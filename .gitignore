@@ -1,0 +1,17 @@
+# Ignore environment and secret files
+.env
+.env.*
+
+# Ignore saved submissions and logs
+customerdetail/
+tmp_server.log
+
+# Node modules (if you run npm install locally)
+node_modules/
+
+# OS files
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
